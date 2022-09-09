@@ -60,7 +60,7 @@ void MethodTwo()
     
     
   // Print if it is weekend here:
-   if(weekend=false) {
+   if(weekend) {
      println("Is is weekend!"); }
      else
      {
